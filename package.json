@@ -4,6 +4,7 @@
   "description": "An Interactive Map Booth for the Cambridge Museum, courtesy of Team Minks, 2.00 MIT Fall 2024",
   "main": "main.js",
   "scripts": {
+    "start": "electron .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Team Mink",
